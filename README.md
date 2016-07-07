@@ -2,7 +2,7 @@
 ![](https://s31.postimg.org/6pa2thz2j/jest.png?raw=true)
 ![](https://s32.postimg.org/rwpuruyol/travis_ci.png?raw=true)
 
-# Continues Integration with Travis CI
+# Continues Integration with Travis CI ![Build Status](https://travis-ci.org/nchathu2014/CI-Travis.svg?branch=master)
 Travis CI is a continues integration testing environment for Github projects.This explain about the process and how CI works with ReactJS and Jest
 
 ### Prerequiests
