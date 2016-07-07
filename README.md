@@ -13,6 +13,8 @@ Travis CI is a continues integration testing environment for Github projects.Thi
   **jest-cli** : unit testing for javascript/ReactJS (extended from jasmine)
 
 ### Configuration
+
+Test without code coverage change the **"collectCoverage"**:false
 * **package.json** :<br/>
    "jest": {<br/>
     "scriptPreprocessor": "<rootDir>/node_modules/babel-jest<br/>
@@ -30,6 +32,18 @@ Travis CI is a continues integration testing environment for Github projects.Thi
 ### Installation
 ```sh
 $ npm install
+```
+### Run/Test
+
+To run the project 
+```sh
+$ npm run start
+http://localhost:8080/webpack-dev-server/
+```
+
+To test the project locally 
+```sh
+$ npm run test
 ```
 
 ### Travis settinigs
