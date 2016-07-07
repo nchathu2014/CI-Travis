@@ -3,7 +3,7 @@
 ![](https://s32.postimg.org/rwpuruyol/travis_ci.png?raw=true)
 
 # Continues Integration with Travis CI
-Travis CI is a continues integration testing environment for Github projects.This will make indertanding about the process and how CI javascript (ES6) projects
+Travis CI is a continues integration testing environment for Github projects.This explain about the process and how CI works with ReactJS and Jest
 
 ### Prerequiests
   - NodeJS (^ v6.2.0) (https://nodejs.org/)
