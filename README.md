@@ -46,7 +46,7 @@ To test the project locally
 $ npm run test
 ```
 
-### Travis settinigs
+### Travis settings
 
 Active the git project in **Travis CI** environment
 
