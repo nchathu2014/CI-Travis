@@ -4,6 +4,7 @@
 
 # Continues Integration with Travis CI 
 ![Build Status](https://travis-ci.org/nchathu2014/CI-Travis.svg?branch=master) [![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)]()
+[![Coverage Status](https://coveralls.io/repos/github/nchathu2014/CI-Travis/badge.svg?branch=v0)](https://coveralls.io/github/Pearson-Higher-Ed/compounds?branch=v0)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/) 
 
 Travis CI is a continues integration testing environment for Github projects.This explain about the process and how CI works with ReactJS and Jest
