@@ -19,12 +19,6 @@ module.exports ={
             jQuery:"jquery",
             "window.jQuery":"jquery"
         }),
-
-        new TimestampWebpackPlugin({
-            path:__dirname,
-            filename:"timestamp.json"
-        }),
-
         new webpack.BannerPlugin("####################################\n Author:T.D.Nuwan Chathuranga\n####################################")
     ],
     module:{
